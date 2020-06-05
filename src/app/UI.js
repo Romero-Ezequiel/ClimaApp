@@ -1,6 +1,6 @@
-/*Creo una clase y la exporto. En esta clase voy a seleccionar
-cada elemento por ID y voy a mostrar la información que me traigo desde
-la API. */
+/*Creo una clase y la exporto. En esta clase voy a manipular el DOM 
+para seleccionar cada elemento por Id y voy a mostrar la información 
+que me traigo desde la API. */
 export class UI{
 
     constructor(){
