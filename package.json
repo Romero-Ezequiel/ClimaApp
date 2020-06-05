@@ -1,14 +1,14 @@
 {
   "name": "ClimaApp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicación del Clima usando JavaScript",
   "main": "index.js",
   "scripts": {
     "build": "webpack -p",
     "dev": "webpack-dev-server -d"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ezequiel Romero",
   "license": "ISC",
   "dependencies": {
     "css-loader": "^3.5.3",
