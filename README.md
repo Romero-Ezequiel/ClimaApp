@@ -10,6 +10,7 @@ _Utilice JavaScript para realizar una aplicación del clima, que a partir de la 
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla.
 * [Bootstrap](https://getbootstrap.com/) - Bootstrap, es un framework originalmente creado por Twitter, que permite crear interfaces web con CSS y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tamaño del dispositivo en que se visualice.
 * [Webpack](https://webpack.js.org/) - Webpack es un empaquetador de módulos, es decir, te permite generar un achivo único con todos aquellos módulos que necesita tu aplicación para funcionar. Para hacerte una idea, te permite meter todos tus archivos javascript en un único archivo, llamémoslo bundle.js.
+* [API](https://openweathermap.org/) - Está API utilice para consumir los datos del tiempo.
 
 ### Instalación 🔧
 
