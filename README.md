@@ -28,6 +28,3 @@ npm run dev
 #### Demo 
 ![Peek 05-06-2020 10-54](https://user-images.githubusercontent.com/54491030/83885304-8cb7cc80-a71c-11ea-9c35-0328cb7d96f9.gif)
 
-
-#### Autor ✒️
-* **Desarrollado:**  _Por Ezequiel Romero_
