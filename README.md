@@ -2,7 +2,7 @@
 
 #### Ejemplo práctico utilizando JavaScript: 
 _Utilice JavaScript para realizar una aplicación del clima, que a partir de la ciudad y el pais que le indiquemos me va a brindar información de la temperatura, humedad, la velocidad del viento de dicha ciudad. Para eso utilice conceptos de JavaScript como la orientación de objetos, herramientas como webpack y herramientas como bootstrap.
-Para ver el proyecto puede hacer click al siguiente enlace *[ClimaApp](https://awesome-mclean-6a6793.netlify.app/)_
+Para ver el proyecto terminado, hacer click al siguiente enlace *[ClimaApp](https://awesome-mclean-6a6793.netlify.app/)_
 
 #### Construido con 🛠️
 
