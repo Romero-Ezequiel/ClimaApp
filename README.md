@@ -13,7 +13,7 @@ Para ver el proyecto terminado, hacer click al siguiente enlace *[ClimaApp](http
 * [Webpack](https://webpack.js.org/) - Webpack es un empaquetador de módulos, es decir, te permite generar un achivo único con todos aquellos módulos que necesita tu aplicación para funcionar. Para hacerte una idea, te permite meter todos tus archivos javascript en un único archivo, llamémoslo bundle.js.
 * [API](https://openweathermap.org/) - Está API utilice para consumir los datos.
 
-### Instalación 🔧
+#### Instalación 🔧
 
 _Para la instalación de las dependencias del proyecto del clima, se tiene que ejecutar en la consola el siguiente comando:_ 
 ```
